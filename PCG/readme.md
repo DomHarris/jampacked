@@ -1,8 +1,7 @@
 # Procedural Content Generators
 In here are a couple of PCG algorithms that return a GridSpace[,]. Use this to generate rooms!
 
-Use it like so
-
+Usage:
 ## RandomWalker
 ```cs
 // options: 
